@@ -25,7 +25,7 @@ This repository contains a **Recommendation System** that employs multiple filte
    - **Time of Day**: Contextual data such as the **time of day**, **activity** (working, relaxing, partying), and **location** can influence the recommendations. For example, relaxing music might be recommended during evening hours, or energetic music during workout sessions.
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b6c429c8-b432-402c-b094-eb8b6ac4b90e)
 ![image](https://github.com/user-attachments/assets/66498ff7-bd63-4947-9dd2-0d1fe1a36540)
 
 ### 4. **Job Recommendation (Hybrid Filtering)**
